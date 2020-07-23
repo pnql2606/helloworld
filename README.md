@@ -25,3 +25,5 @@
 <a href ="https://github.com/pnql2606/SendBroadcast">Đối tượng Intent trong Android (Phần 3)</a>
 
 <a href ="https://github.com/pnql2606/SQLiteDemoApplicationActivity">Lập trình cơ sở dữ liệu Android với SQLite</a>
+
+[img]https://i.imgur.com/Y7fiYjW.jpg[/img]
